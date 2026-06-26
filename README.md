@@ -15,10 +15,10 @@ Tech Stack:
 - MySQL
 
 Run:
-# vs code terminal 
+#vs code terminal 
 npm install
 
 node server.js
-# Browser
+#Browser
 Open:
 http://localhost:3000
